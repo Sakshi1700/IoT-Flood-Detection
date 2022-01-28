@@ -1,4 +1,4 @@
-                                                #include "DHT.h"
+#include "DHT.h"
 #include<LiquidCrystal.h>
 String words;
 LiquidCrystal lcd(12,13,5,4,3,2);
